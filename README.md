@@ -14,12 +14,11 @@ El método mejorado utiliza una variable booleana para detectar si ocurrió alg�
 
 Su complejidad temporal en el mejor caso es O(n), porque, si el arreglo ya está ordenado, realiza una sola pasada con aproximadamente (n-1) comparaciones y termina sin necesitar más pasadas.
 
-
-2. Pruebas realizadas
+Pruebas realizadas
 
 Se probaron ambos métodos con arreglos de números enteros. El primer método utiliza un arreglo desordenado y el segundo un arreglo parcialmente ordenado.
 
-3. Salida de consola
+Salida de consola
 
 <img width="571" height="192" alt="image" src="https://github.com/user-attachments/assets/7c6672a0-bd1f-4d29-9438-bea43059d7c5" />
 
